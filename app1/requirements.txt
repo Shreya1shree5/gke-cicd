@@ -1,3 +1,1 @@
-flask
-tabulate
-google-cloud-logging
+Flask==1.1.1
